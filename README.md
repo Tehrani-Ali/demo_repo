@@ -1,1 +1,3 @@
-# demo_repo
+# demo description.
+
+start learning git
